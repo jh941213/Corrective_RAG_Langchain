@@ -7,6 +7,8 @@ CRAG 를 랭체인을 통한 구현 , TAVILY_API 를 활용해서 Web Serch 를 
 
 `Corrective_RAG_Langchain`은 RAG(Retrieval-Augmented Generation) 모델의 성능을 향상시키기 위해 LangChain을 통한 구현 방식과 TAVILY API를 활용한 웹 검색을 통해 컨텍스트 정보를 추가하고 재질의하는 프로젝트입니다. 이 프로젝트는 데이콘의 '도배하자' 대회 데이터를 사용하였으며, PEPT LLM을 튜닝하여 모델을 개발하였습니다.
 
+[📜논문리뷰](https://wiz-tech.tistory.com/entry/Corrective-Retrieval-Augmented-Generation-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0) 
+
 ## 특징
 
 - **LangChain 활용**: LangChain을 통해 RAG 모델 구현, 컨텍스트 정보의 풍부함을 통한 성능 향상.
